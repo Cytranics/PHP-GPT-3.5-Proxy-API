@@ -1,9 +1,10 @@
 <?php
 // To use Call the URL with parameters /chatgpt.php?role=user&content=Hello
 // Edit the below Initial Prompt to create a message.json file which is used to store the conversation history
-// Set the max number of conversations to store in the message.json file. 20 is a good number.
+// Set the max number of conversations to store in the message.json file. 30 is a good number.
 // Both user messages and bot responses are stored in the message.json file
 // The bot will remember prior context.
+// Delete the messages.json file and add your new prompt to change.
 
 
 
